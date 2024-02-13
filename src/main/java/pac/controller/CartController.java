@@ -29,5 +29,5 @@ public class CartController {
 		model.addAttribute("cart", GlobalData.cart);
 		return "cart";
 	}
-
+//cart controller ends
 }
