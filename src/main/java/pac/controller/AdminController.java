@@ -25,7 +25,7 @@ import pac.service.ProductService;
 public class AdminController {
 	
 	public static String uploadDir = System.getProperty("user.dir") + "/src/main/resources/static/productImages";
-	
+	//controllers
 	@Autowired
 	CategoryService categoryService;
 	
